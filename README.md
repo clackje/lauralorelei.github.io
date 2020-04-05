@@ -6,7 +6,7 @@ I will try to make it a nice place :)
 
 Right now, I don't have a fucking clue what to tell on this website. I was never a good story teller... So maybe images would be a better way to express something...
 
-(https://github.com/lauralorelei/lauralorelei.github.io/blob/master/assets/0Smalla-h.png)
+[image test](assets/0Smalla-h.png)
 
 
 ## Describe your project
